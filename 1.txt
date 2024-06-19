@@ -1,0 +1,9 @@
+git status
+
+git init
+
+git add .
+
+git commit -m '1.txt_Added'
+
+git clone url
